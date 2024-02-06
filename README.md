@@ -1,4 +1,4 @@
-<h1>Leetcode_SQL_Submissions</h1>
+<h1>Leetcode SQL submissions</h1>
 Link to Leetcode Profile: <a href="https://leetcode.com/grid_saqib/">grid_saqib</a><br><br>
 1:<a href="https://leetcode.com/problems/combine-two-tables/submissions/1154509471">Combine Two Tables</a><br>
 2:<a href="https://leetcode.com/problems/second-highest-salary/submissions/1155234936">Second Highest Salary</a><br>
